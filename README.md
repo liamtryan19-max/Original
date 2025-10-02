@@ -35,7 +35,7 @@
     <h2>Professional Experience:</h2>
     <p><strong>Avoke Ltd.</strong><br>
     Marlow, Buckinghamshire (09/23 - 03/24)<br>
-    Avoke Ltd. is one of the biggest Audio Visual equipment distributors operating primarily in the UK but has on occasion worked internationally. Initially, my day to day responsibility within the organization was administrative which acted as extremely formative insight into the inner-workings of a business, something which has intrigued and captivated me since.
+    Avoke Ltd. is one of the biggest Audio Visual equipment distributors operating primarily in the UK but has on occasion worked internationally. Initially, my day to day responsibility within the organization was administrative which acted as extremely formative insight into the inner-workings of a business, something which has intrigued and captivated me since. <br>
     <p><strong>St Jamess' Place</strong><br>
     Virtual work experience day								02/06/25<br>
     I was fortunate enough to be admitted into a virtual work experience day with St James’ place - the largest wealth management firm in the UK by assets under management (AUM). 

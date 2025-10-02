@@ -14,9 +14,18 @@
     }
     </style>
 </head>
-
-<header>
+   
+<body>
+   <header>
     <h1>Liam Taiki Ryan</h1>
-    <p><em>International Business Management Student | Bilingual (English & Japanese)</em></p>
+    <p><em>International Business Management Student | Blahblahblah </em> </p>
     <p>Email: liamtaikiryan@gmail.com | Phone: 07883739034 | Location: Cardiff | Buckinghamshire </p>
   </header>
+
+  <section class="section" id="education">
+    <h2>Education:</h2>
+    <p><strong>2nd Year International Business Management</strong><br>
+    Cardiff University (Graduating 2028, Placement Year starts 06/2026)</p>
+  </section>
+  
+</body>

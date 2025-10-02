@@ -29,19 +29,23 @@
     Cardiff University (Graduating 2028, Placement Year starts 06/2026)
      <br>I atained a 66% average grade in first year and am keen to bolster that percentage. My degree now has a strong emphasis on international managment with Inferential Statistics, Statistical Modelling and Survey Methods 
      
-  </section>
+
 
   <section class="section" id="experience">
-    <h2>Professional Experience:</h2>
+    <h1>Professional Experience:</h1>
     <p><strong>Avoke Ltd.</strong><br>
     Marlow, Buckinghamshire (09/23 - 03/24)<br>
     Avoke Ltd. is one of the biggest Audio Visual equipment distributors operating primarily in the UK but has on occasion worked internationally. Initially, my day to day responsibility within the organization was administrative which acted as extremely formative insight into the inner-workings of a business, something which has intrigued and captivated me since. <br>
     <p><strong>St Jamess' Place</strong><br>
-    Virtual work experience day								02/06/25<br>
+    Virtual work experience day								(02/06/25)<br>
     I was fortunate enough to be admitted into a virtual work experience day with St James’ place - the largest wealth management firm in the UK by assets under management (AUM). 
 
-
+ <section class="section" id="Skills">
+ <h1>Skills:</h1>
+ <p><strong>Japanese conversational fluency</strong><br>
+ Through dookieing out my butt i can speak japanese
+ 
        
-  </section>
+  
   
 </body>

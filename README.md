@@ -44,6 +44,15 @@
  <h1>Skills:</h1>
  <p><strong>Japanese conversational fluency</strong><br>
  Through dookieing out my butt i can speak japanese
+    
+<section class="section" id="Interests:">
+ <h1>Interests:</h1>
+ <p><strong>Mixed Martial Arts </strong><br>
+ <p><strong>Mixed Cooking </strong><br>
+ <p><strong>Mixed Fashion and design </strong><br>
+
+
+ 
  
        
   

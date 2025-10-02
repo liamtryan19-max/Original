@@ -5,7 +5,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 800px;
+      max-width: 1200px;
       margin: auto;
       padding: 20px;
       line-height: 1.6;

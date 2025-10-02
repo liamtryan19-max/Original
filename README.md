@@ -28,7 +28,11 @@
     <p><strong>2nd Year International Business Management</strong><br>
     Cardiff University (Graduating 2028, Placement Year starts 06/2026)
      <br>I atained a 66% average grade in first year and am keen to bolster that percentage. My degree now has a strong emphasis on international managment with Inferential Statistics, Statistical Modelling and Survey Methods 
-     
+     <p><strong>Sir William Borlase Grammer School </strong><br>
+     SWBGS is the Grammer School I attended from Yeaer 7 through to year 13 where I studied British and American Politics, Businessand and English Literature in addition to an EPQ pertaining to enviromental and sustainable practices relating to the fashion industry.
+     <p><strong>Hoshuko (Japanese International School) </strong><br>
+     Whilst I grew up in the UK outside of London, I attended Hoshuko, an international school for Japanese nationals which on Saturday teaches British nationals Japanese. 
+        This allowed me excellent perspective on a multicultrual orgnaisation and has made me more open minded throughout my entire life. Through this, I was able to aquire an 9 in Japanese GCSE in addition to my other GCSEs.
 
 
   <section class="section" id="experience">
@@ -48,8 +52,10 @@
 <section class="section" id="Interests:">
  <h1>Interests:</h1>
  <p><strong>Mixed Martial Arts </strong><br>
- <p><strong>Mixed Cooking </strong><br>
- <p><strong>Mixed Fashion and design </strong><br>
+ <p><strong>Narrative story telling </strong><br>
+ <p><strong>Brazilian Jiu Jitsu </strong><br>
+ <p><strong>Cooking </strong><br>
+ <p><strong>Fashion and design </strong><br>
 
 
  

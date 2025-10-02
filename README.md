@@ -24,11 +24,19 @@
 
 
   <section class="section" id="education">
-    <h2>Education:</h2>
+    <h1>Education:</h1>
     <p><strong>2nd Year International Business Management</strong><br>
-    Cardiff University (Graduating 2028, Placement Year starts 06/2026)</p>
-     <br>I aatained a 66% average grade in first year and am keen to bolster that percentage. My degree now has a strong emphasis on international managment with Inferential Statistics, Statistical Modelling and Survey Methods </br>
+    Cardiff University (Graduating 2028, Placement Year starts 06/2026)
+     <br>I atained a 66% average grade in first year and am keen to bolster that percentage. My degree now has a strong emphasis on international managment with Inferential Statistics, Statistical Modelling and Survey Methods 
      
+  </section>
+
+  <section class="section" id="experience">
+    <h2>Professional Experience:</h2>
+    <p><strong>Avoke Ltd.</strong><br>
+    Marlow, Buckinghamshire (09/23 - 03/24)<br>
+    Avoke Ltd. is one of the biggest Audio Visual equipment distributors operating primarily in the UK but has on occasion worked internationally. Initially, my day to day responsibility within the organization was administrative which acted as extremely formative insight into the inner-workings of a business, something which has intrigued and captivated me since
+    
   </section>
   
 </body>

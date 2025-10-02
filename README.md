@@ -19,7 +19,9 @@
    <header>
     <h1>Liam Taiki Ryan</h1>
     <p><em>International Business Management Student | Blahblahblah </em> </p>
-    <p>Email: liamtaikiryan@gmail.com | Phone: 07883739034 | Location: Cardiff | Buckinghamshire </p>
+    <p>Email: liamtaikiryan@gmail.com | 
+    <p>Phone: 07883739034 |
+    <p>Location: Cardiff | Buckinghamshire 
   </header>
 
 

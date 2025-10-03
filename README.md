@@ -16,6 +16,9 @@
 </head>
    
 <body>
+   {
+   background-image: url('https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
+   }
    <header>
     <h1>Liam Taiki Ryan</h1>
     <p><em>International Business Management Student | Blahblahblah </em> </p>

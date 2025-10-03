@@ -4,7 +4,6 @@
 <head>
   <style>
     body {
-       body {
       background-image: url(https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
       background-size: cover;         
       background-position: center;

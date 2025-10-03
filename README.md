@@ -14,11 +14,16 @@
     }
     </style>
 </head>
-   
-<body>
-   {
-   background-image: url('https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
-   }
+<body>   
+    body {
+      background-image: url(https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
+      background-size: cover;         
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+
+
    <header>
     <h1>Liam Taiki Ryan</h1>
     <p><em>International Business Management Student | Blahblahblah </em> </p>

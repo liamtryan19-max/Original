@@ -4,6 +4,12 @@
 <head>
   <style>
     body {
+       body {
+      background-image: url(https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
+      background-size: cover;         
+      background-position: center;
+      background-repeat: no-repeat;
+    }
       font-family: Arial, sans-serif;
       max-width: 1200px;
       margin: auto;
@@ -15,14 +21,6 @@
     </style>
 </head>
 <body>   
-    body {
-      background-image: url(https://i.ytimg.com/vi/np-rHWy1agw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAROejpu56wCYM8a1gQhmaqE0FCnw);
-      background-size: cover;         
-      background-position: center;
-      background-repeat: no-repeat;
-    }
-
-
 
    <header>
     <h1>Liam Taiki Ryan</h1>
